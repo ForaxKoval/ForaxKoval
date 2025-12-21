@@ -1,5 +1,4 @@
 ## Hi there 👋 I`m Forax :)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ForaxKoval&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ForaxKoval&show_icons=true&theme=dark#gh-dark-mode-only">

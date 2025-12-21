@@ -2,8 +2,8 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ForaxKoval&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ForaxKoval&show_icons=true&theme=dark#gh-dark-mode-only">
+    <img align="right" width="50%" src="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 </picture>
 
 - 🌱 I’m currently learning how to write code on C++

@@ -1,8 +1,7 @@
 ## Hi there 👋 I`m Forax :)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ForaxKoval&show_icons=true&theme=dark#gh-dark-mode-only">
-    <img align="right" width="50%" src="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForaxKoval&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </picture>
 
 - 🌱 I’m currently learning how to write code on C++

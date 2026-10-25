@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning how to write code on C++
 - ⚡ Fun fact: I collect cars in 1:64 scale. :) 
-- 📖 I am in college and actively practicing C++ and Python
+- 📖 I am in college and actively practicing C++, Python and other languages 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ForaxKoval&theme=dark)](https://git.io/streak-stats)
 
